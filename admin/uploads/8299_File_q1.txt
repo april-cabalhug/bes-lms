@@ -1,0 +1,29 @@
+Which focuses on ensuring the availability, integrity, authentication, confidentiality, and non-repudiation of information and systems. *
+information assurance
+
+Refers to the accuracy and completeness of data. *
+integrity
+
+The property of being genuine and being able to be verified and trusted; confidence in the validity of a transmission, a message, or message originator.  *
+authenticity
+
+The state of being secret or of keeping secrets *
+confidentiality
+
+Small program that provides an addition to the capabilities provided by the operating system. *
+utility
+
+Deals with the ability an organization or individual has to determine what data in a computer system can be shared with third parties. *
+privacy
+
+Means that information is accessible to authorized users. *
+availability
+
+The protection of information systems against unauthorized access to or modification of information, whether in storage, processing or transit, and against the denial of service to authorized users, including those measures necessary to detect, document, and counter such threats. *
+information system security
+
+Is a category of user authentication credentials based on items that the user has with them *
+possession
+
+Which centers on the protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability. *
+information security
